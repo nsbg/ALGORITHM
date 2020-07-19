@@ -8,7 +8,7 @@ chk = min(numList)
 
 while True:
     cnt = 0
-    
+
     for i in range(5):
         if chk % numList[i] == 0:
             cnt += 1
