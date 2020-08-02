@@ -22,10 +22,10 @@
     ✔ 매트로이드 : 탐욕 알고리즘으로 언제나 최적해를 구할 수 있는 구조    
        
     ✔ Prim Algorithm, Kruskal Algorithm, Dijkstra Algorithm, 거스름돈 나누기 등     
-     
-    ✔ [백준 11399](https://www.acmicpc.net/problem/11399), [백준 11047](https://www.acmicpc.net/problem/11047)       
             
              
-3. 거스름돈 나누기    
+3. 참고    
       
-    ✔ 가지고 있는 동전들이 서로의 약수/배수여야만 그리디 적용 가능
+    ✔ 가지고 있는 동전들이 서로의 약수/배수여야만 그리디 적용 가능   
+        
+    ✔ [백준 11399](https://www.acmicpc.net/problem/11399), [백준 11047](https://www.acmicpc.net/problem/11047)       
