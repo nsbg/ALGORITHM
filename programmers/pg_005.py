@@ -7,9 +7,7 @@ def solution(s):
         i = len(s) // 2
         answer += s[i]
     else:
-        i = len(s)// 2 - 1
+        i = len(s) // 2 - 1
         answer += s[i:i+2]
 
     return answer
-
-k = print(solution(input()))
