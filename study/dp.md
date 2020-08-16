@@ -20,8 +20,3 @@
             
     ✔ Memoization : 한 번 계산된 값을 기록해두고 이후 중복 호출되었을 때 저장해 둔 값을 가져와 사용하는 방법     
     <image src="https://cdn.codeground.org/cg/images/note/algorithm_8-2.jpg">   
-3. 참고    
-      
-    ✔ 가지고 있는 동전들이 서로의 약수/배수여야만 그리디 적용 가능   
-        
-    ✔ [백준 11399](https://www.acmicpc.net/problem/11399), [백준 11047](https://www.acmicpc.net/problem/11047)       
