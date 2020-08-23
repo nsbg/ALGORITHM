@@ -3,7 +3,7 @@
 ---
 📁 **boj**   
         ▫ [백준 온라인 저지](https://www.acmicpc.net/) 문제 풀이 정리   
-        ▫ 문제 이름으로 commit message 기록 (2020. 7. 30. ~)    
+        ▫ commit message : Add 문제 이름 (2020. 8. 14. ~)    
 
 
 📁 **programmers**   
