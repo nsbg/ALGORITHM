@@ -4,6 +4,8 @@ import sys
 
 n, l, d = map(int, sys.stdin.readline().split())
 
+idx = 0
+
 music = []
 
 # 노래 수만큼 반복
@@ -19,5 +21,14 @@ for i in range(n):
 
 # 위 접근방식은 인터넷 참고
 
-for i in range(len(music)):
-    
+# 노래 끝나자마자 전화벨 울리는 경우 생각해줘야함
+while True:
+    if idx >= len(music):
+        break
+
+    if music[idx] == 0:
+        break
+    else:
+        idx += d
+
+print(idx)
