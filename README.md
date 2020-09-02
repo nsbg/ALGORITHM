@@ -13,7 +13,7 @@
 
 
 📁 **study**      
-        ▫ 알고리즘 이론 정리 예정   
+        ▫ 알고리즘 이론 정리         
         ▫ 나한테 필요한 내용들 정리      
 
 
@@ -21,6 +21,3 @@
         ▫ [SW Expert Academy](https://swexpertacademy.com) 문제 풀이 정리   
         ▫ 아직 깨-끗한 폴더   
         ▫ 백준/프로그래머스와 동일하게 문제 이름으로 commit message로 표시 예정     
-            
-
-<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/29790490_396140634183148_4926166783824529911_n.jpg?_nc_cat=109&_nc_sid=8bfeb9&_nc_ohc=fVBZUpxIxiEAX8R6DlA&_nc_ht=scontent-ssn1-1.xx&oh=a1252346c8aa3c52acd87bb18aa5f1fb&oe=5F3F9E7A">
