@@ -1,3 +1,5 @@
+# Silver 4
+
 import sys
 
 n = int(sys.stdin.readline().rstrip())
