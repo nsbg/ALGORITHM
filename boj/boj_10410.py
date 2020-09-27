@@ -1,8 +1,11 @@
-#eligible한 조건
-#1. post-secondary 연구 시작이 2010년 이상
-#2. 1991년 이후 태어났을 때
-#3. 1, 2 해당없고 40학기 이상 들었을 때는 ineligible
-#4. 1,2,3 해당없으면 코치
+# Bronze 2
+
+'''eligible한 조건
+1. post-secondary 연구 시작이 2010년 이상
+2. 1991년 이후 태어났을 때
+3. 1, 2 해당없고 40학기 이상 들었을 때는 ineligible
+4. 1,2,3 해당없으면 코치
+'''
 
 n = int(input())
 
