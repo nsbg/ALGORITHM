@@ -2,9 +2,9 @@
 
 import sys
 
-n = int(input())
+n = int()
 
-square = [[0 for col in range(100)] for row in range(100)]
+square = [[0 for _ in range(100)] for _ in range(100)]
 cnt = 0
 
 for _ in range(n):
