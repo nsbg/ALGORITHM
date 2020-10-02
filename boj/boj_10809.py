@@ -1,3 +1,4 @@
+# Bronze 2
 # 속도 느림
 import string
 
