@@ -1,3 +1,5 @@
+# Silver 5
+
 firstWordList = []
 
 while True:
