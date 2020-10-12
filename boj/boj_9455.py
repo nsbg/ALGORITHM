@@ -1,3 +1,5 @@
+# Bronze 1
+
 import sys
 
 t = int(sys.stdin.readline().rstrip())
@@ -9,6 +11,3 @@ for i in range(t):
 
     for j in range(m):
         row = input().split()
-
-
-
