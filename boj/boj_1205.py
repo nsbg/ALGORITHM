@@ -17,4 +17,3 @@ if rank.index(newScore) > p or (n == p and rank[-1] == newScore):
 # 등수를 매길 수 있을 때
 else:
     print(rank.index(newScore)+1)
-
