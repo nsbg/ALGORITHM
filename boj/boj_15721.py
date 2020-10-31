@@ -28,6 +28,7 @@ else:
     while True:
         chk += 1
 
+        # 리스트 연산을 적극 활용하자 ,,
         res = play+(zero*chk)+(one*chk)
 
         for r in res:
