@@ -1,9 +1,8 @@
 # 💻 ALGORITHM 🖱   
-##### 40살 되기 전에 알고리즘 대회에서 상 타보는 게 꿈 ! ^^
 ---
 📁 **boj**   
         ▫ [백준 온라인 저지](https://www.acmicpc.net/) 문제 풀이 정리   
-        ▫ commit message : Add 문제 이름 (2020. 8. 14. ~)    
+        ▫ commit message : Add 문제 이름 (2020. 8. 14. ~) → 문제 이름 (2021. 2. 26)      
 
 
 📁 **programmers**   
