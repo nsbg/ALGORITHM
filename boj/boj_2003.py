@@ -19,6 +19,6 @@ while start <= end and end <= len(a):
         end += 1
     else:
         cnt += 1
-        end += 1
+        start += 1
 
 print(cnt)
