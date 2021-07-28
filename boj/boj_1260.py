@@ -15,7 +15,7 @@ visited = [0]*(n+1)
 for i in range(m):
     a, b = map(int, sys.stdin.readline().split())
     
-    # 양방향 연결을 의미
+    # 양방향 연결
     adjMatrix[a][b] = adjMatrix[b][a] = 1
 
 def dfs(v):
