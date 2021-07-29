@@ -41,7 +41,7 @@ def bfs(x, y):
             xx = x + dx[i]
             yy = y + dy[i]
 
-            if 0 <= xx < N and 0 <= yy < M and field[nx][ny] == 1:
+            if 0 <= xx < N and 0 <= yy < M and field[xx][yy] == 1:
                 # 방문한 곳은 0으로 바꿔주기
                 field[xx][yy] = 0
                 q.append((x, y))
