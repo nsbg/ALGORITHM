@@ -6,6 +6,8 @@ from collections import deque
 n = int(input())
 
 family = [[0]*(n+1) for _ in range(n+1)]
+
+# 탐색 시작점으로부터 노드 i까지의 거리(촌수)
 check = [0]*(n+1)
 
 q = deque()
