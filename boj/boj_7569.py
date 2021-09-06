@@ -1,4 +1,5 @@
 # Silver 1
+# 인덱스 조심
 
 import sys
 from collections import deque
