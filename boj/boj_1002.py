@@ -15,7 +15,7 @@ for _ in range(T):
         print(-1)
     elif max(r) > sum(r)-max(r):
         print(0)
-    elif r1+r2==d or abs(r1-r2)==d:
+    elif r1+r2 == d or abs(r1-r2) == d:
         print(1)
     else:
         print(2)
