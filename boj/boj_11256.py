@@ -16,8 +16,6 @@ for _ in range(T):
         R, C = map(int, sys.stdin.readline().split())
         
         mul.append(R*C)
-    
-    print(sorted(mul, reverse=True))
 
     for m in sorted(mul, reverse=True):
         J -= m
