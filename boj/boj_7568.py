@@ -19,4 +19,3 @@ for i in info:
             cnt += 1
     
     print(cnt, end=' ')
-
