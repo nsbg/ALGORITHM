@@ -15,7 +15,7 @@ def DFS(j):
     for i in range(j, N+1):
         if i not in arr:
             arr.append(i)
-            DFS(j+1)
+            DFS(i+1)
             arr.pop()
     
 DFS(1)
