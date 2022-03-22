@@ -8,9 +8,7 @@ stack = []
 
 for s in S:
     stack.append(s)
-
-print(S)
-
+    
 while len(S) > 0:
     if S.pop() != stack.pop(0):
         print(0)
