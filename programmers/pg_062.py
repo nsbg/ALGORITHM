@@ -1,3 +1,5 @@
+# Level 1
+
 def solution(s):
     answer = 0
     
